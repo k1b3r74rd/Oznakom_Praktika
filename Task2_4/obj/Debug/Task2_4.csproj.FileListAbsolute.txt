@@ -1,0 +1,8 @@
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task2_4\bin\Debug\Task2_4.exe.config
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task2_4\bin\Debug\Task2_4.exe
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task2_4\bin\Debug\Task2_4.pdb
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task2_4\obj\Debug\Task2_4.csproj.AssemblyReference.cache
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task2_4\obj\Debug\Task2_4.csproj.SuggestedBindingRedirects.cache
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task2_4\obj\Debug\Task2_4.csproj.CoreCompileInputs.cache
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task2_4\obj\Debug\Task2_4.exe
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task2_4\obj\Debug\Task2_4.pdb

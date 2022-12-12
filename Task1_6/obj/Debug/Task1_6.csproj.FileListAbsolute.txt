@@ -1,0 +1,8 @@
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task1_6\bin\Debug\Task1_6.exe.config
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task1_6\bin\Debug\Task1_6.exe
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task1_6\bin\Debug\Task1_6.pdb
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task1_6\obj\Debug\Task1_6.csproj.AssemblyReference.cache
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task1_6\obj\Debug\Task1_6.csproj.SuggestedBindingRedirects.cache
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task1_6\obj\Debug\Task1_6.csproj.CoreCompileInputs.cache
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task1_6\obj\Debug\Task1_6.exe
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task1_6\obj\Debug\Task1_6.pdb
