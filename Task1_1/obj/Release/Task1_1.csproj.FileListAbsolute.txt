@@ -1,0 +1,8 @@
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task1_1\bin\Release\Task1_1.exe.config
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task1_1\bin\Release\Task1_1.exe
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task1_1\bin\Release\Task1_1.pdb
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task1_1\obj\Release\Task1_1.csproj.AssemblyReference.cache
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task1_1\obj\Release\Task1_1.csproj.SuggestedBindingRedirects.cache
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task1_1\obj\Release\Task1_1.csproj.CoreCompileInputs.cache
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task1_1\obj\Release\Task1_1.exe
+G:\0.PROJECTS\C#\TUSUR\Oznakom_Prak\Task1_1\obj\Release\Task1_1.pdb
